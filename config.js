@@ -14,27 +14,27 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'bf500189af',
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6287721317870','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.owner = ['43664773366666']
+global.premium = ['43664773366666']
+global.packname = 'wa-bot'
+global.author = 'ꪶѧѕні─ⷽ─ᷞ─ⷬ─ⷩ─ⷽ➻⁩'
+global.sessionName = 'ashi'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    admin: 'Group Admin Special Features!',
+    botAdmin: 'Bot Must Be Admin First!',
+    owner: 'Owner Bot's Special Features',
+    group: 'Feature Used For Group Only!',
+    private: 'Features Used Only For Private Chat!',
+    bot: 'Bot Number User Special Features',
     wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
     premium: "Infinity",
